@@ -1,0 +1,9 @@
+.header__item {
+  list-style-type: none;
+}
+
+
+.header__item:f {
+  margin-right: 18px;
+  text-decoration: underline;
+}

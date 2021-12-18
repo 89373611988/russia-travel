@@ -1,0 +1,6 @@
+.lead {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minm284px);
+  grid-template-rows: repeat(auto-fit, 213px);
+  gap: 16px;
+}

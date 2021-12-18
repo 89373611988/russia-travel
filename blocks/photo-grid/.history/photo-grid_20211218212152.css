@@ -1,0 +1,9 @@
+.lead {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+  grid-template-rows: repeat(auto-fit, minmax(213px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(284px, );
+  grid-template-rows: repeat(auto-fit, minmax(213px, 264px));
+  gap: 16px;
+}

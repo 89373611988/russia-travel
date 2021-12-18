@@ -1,0 +1,12 @@
+.footer__item {
+  list-style-type: none;
+  margin-right: 18px;
+}
+
+@media (max-width: 750px) {
+  .footer__item {
+    width: 186px;
+    flex-direction: column;
+  
+  }
+}

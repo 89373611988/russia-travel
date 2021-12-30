@@ -8,4 +8,8 @@
     width: 186px;
     margin-bottom: 32px;
   }
+
+  .footer__item:last-child {
+    margin: 0;
+  }
 }

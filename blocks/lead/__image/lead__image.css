@@ -4,23 +4,15 @@
   margin: 0 auto;
 }
 
-@media (max-width: 1100px) {
-  .lead__image {
-    margin: 0 48px;
-    width: 100%;
-  }
-}
 
 @media (max-width: 1024px) {
   .lead__image {
-    margin: 0 48px;
-    max-width: 768px;
+    width: 100%;
   }
 }
 
 @media (max-width: 850px) {
   .lead__image {
-    margin: 0;
     width: 100%;
   }
 }

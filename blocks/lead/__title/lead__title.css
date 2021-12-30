@@ -8,7 +8,7 @@
   margin: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 760px) {
   .lead__title {
     font-size: 70px;
     line-height: 80px;

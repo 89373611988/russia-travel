@@ -12,17 +12,9 @@
   }
 }
 
-@media (max-width: 960px) {
-  .places {
-    max-width: 928px;
-    margin: 88px auto 0;
-  }
-}
-
 @media (max-width: 930px) {
   .places {
     max-width: 720px;
-    margin: 88px auto 0;
   }
 }
 

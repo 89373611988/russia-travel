@@ -9,7 +9,6 @@
   .header__lang-link {
     font-size: 18px;
     line-height: 20px;
-    text-decoration: underline;
   }
 }
 
@@ -19,6 +18,4 @@
   transition: opacity 0.5s ease;
 }
 
-.header__lang-link:active {
-  text-decoration: underline;
-}
+

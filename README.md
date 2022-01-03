@@ -9,4 +9,4 @@
 
 ## Доработать: ссылки на заповедники, 2 секции отзывов и с видео.
 
-Ссылка на проект: [https://89373611988.github.io/russia-travel-project/index.html]
+Ссылка на проект: https://89373611988.github.io/russia-travel-project/

@@ -20,7 +20,4 @@
   .place__paragraph {
     margin: 0 16px 25px;
   }
-  .place__paragraph:first-child {
-    margin: 0 16px 25px;
-  }
 }

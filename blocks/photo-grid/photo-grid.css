@@ -15,7 +15,7 @@
   }
 }
 
-@media (max-width: 1014px) {
+@media (max-width: 1024px) {
   .photo-grid {
     gap: 14px;
     margin: 0 48px;
@@ -35,5 +35,6 @@
   .photo-grid {
     width: 288px;
     margin: 0 auto;
+    gap: 12px;
   }
 }

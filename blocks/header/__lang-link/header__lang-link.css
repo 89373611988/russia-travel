@@ -5,7 +5,7 @@
   text-decoration: none;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 767px) {
   .header__lang-link {
     font-size: 18px;
     line-height: 20px;
@@ -17,5 +17,3 @@
   cursor: pointer;
   transition: opacity 0.5s ease;
 }
-
-

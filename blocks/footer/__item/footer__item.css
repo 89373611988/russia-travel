@@ -3,10 +3,9 @@
   margin-right: 18px;
 }
 
-@media (max-width: 750px) {
+@media (max-width: 767px) {
   .footer__item {
-    width: 186px;
-    margin-bottom: 32px;
+    margin: 0 0 32px;
   }
 
   .footer__item:last-child {

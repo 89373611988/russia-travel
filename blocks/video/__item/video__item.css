@@ -1,0 +1,49 @@
+.video__item {
+  border: none;
+  width: 583px;
+  height: 323px;
+  border-radius: 5px;
+}
+
+.video__item:first-child {
+  margin-right: 18px;
+}
+
+@media (max-width: 1270px) {
+  .video__item {
+    width: 456px;
+    height: 288px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .video__item:first-child {
+    margin-right: 16px;
+  }
+}
+
+@media (max-width: 970px) {
+  .video__item {
+    max-width: 352px;
+    height: 200px;
+  }
+}
+
+@media (max-width: 760px) {
+  .video__item:first-child {
+    margin: 0 0 8px;
+  }
+}
+
+@media (max-width: 500px) {
+  .video__item {
+    max-width: 343px;
+  }
+}
+
+@media (max-width: 370px) {
+  .video__item {
+    max-width: 288px;
+    height: 192px;
+  }
+}
